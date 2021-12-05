@@ -183,7 +183,7 @@
 }
 
 #references .content > ul > li {
-  padding-right: 30px;
+  padding-right: 20px;
 }
 
 .right-container .material-icons {
@@ -218,7 +218,7 @@
 }
 
 .right-container {
-  width: 470px;
+  width: 480px;
   position: absolute;
   left: 290px;
 }
