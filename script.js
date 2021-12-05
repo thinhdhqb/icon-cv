@@ -145,7 +145,7 @@ function addEducation(name='Tên trường', time='Thời gian', description='<l
 };
 
 function addAwards(content='Giải thưởng') {
-    let html = '<li>' + content + 
+    let html = '<li contenteditable>' + content + 
     '<span contenteditable="false" class="material-icons remove-item">delete_outline</span>' +
     '</li>';
     $('#awards .content > ul').append(html);
