@@ -237,7 +237,7 @@
 }
 
 .name-container {
-  margin-top: 40px;
+  margin-top: 10px;
 }
 
 .name-container div {
@@ -253,7 +253,7 @@
   font-weight: normal;
   text-transform: uppercase;
   color: var(--theme-color);
-  margin-bottom: 40px;
+  margin-bottom: 15px;
 }
 
 .title:hover .add-item {
