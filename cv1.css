@@ -175,6 +175,10 @@
   margin-top: 0;
 }
 
+.right-container .content li {
+  padding: 0;
+}
+
 #references .content > ul {
   display: grid;
   grid-template-columns: 50% 50%;
